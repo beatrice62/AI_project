@@ -5,6 +5,9 @@
 * TABU 탐색 알고리즘
 * 유전 알고리즘
 
+
+***
+
 ### 기존 기법들
 * *ZF(Zero Forcing)* : 단순 역행렬 연산의 선형적 기법. 간단하지만 부정확하다.
 * *MMSE(Minimum Mean Square Error)* : 최소의 MSE를 선택하는 선형적 기법. ZF보단 성능이 낫지만 부정확하다.
